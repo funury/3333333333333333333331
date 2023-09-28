@@ -1,0 +1,11 @@
+# Добро пожаловать на сервер  **Anal Duels**
+*Дуэль и ффа*
+
+**Правила**
+- ФФА онли яма
+- Дуэль на бортиках
+
+Example of **Bolded** text.
+Example of *Italicized* text.
+
+![Seymour](https://media.discordapp.net/attachments/1138513504962363472/1156893853526278175/gg.png?ex=6516a0dc&is=65154f5c&hm=57014867093590a231bf166a8371268046eb817f2f1e3bcf857929a3c7f16fc5&=&width=1122&height=623)
